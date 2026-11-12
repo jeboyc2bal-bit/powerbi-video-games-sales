@@ -1,0 +1,82 @@
+console,console_name,manufacturer
+PS,PlayStation,Sony
+PS2,PlayStation 2,Sony
+PS3,PlayStation 3,Sony
+PS4,PlayStation 4,Sony
+PS5,PlayStation 5,Sony
+PSP,PlayStation Portable,Sony
+PSV,PlayStation Vita,Sony
+PSN,PlayStation Network,Sony
+XB,Xbox,Microsoft
+X360,Xbox 360,Microsoft
+XOne,Xbox One,Microsoft
+Series,Xbox Series X|S,Microsoft
+XS,Xbox Series X|S,Microsoft
+XBL,Xbox Live Arcade,Microsoft
+NES,Nintendo Entertainment System,Nintendo
+SNES,Super Nintendo,Nintendo
+N64,Nintendo 64,Nintendo
+GC,GameCube,Nintendo
+Wii,Wii,Nintendo
+WiiU,Wii U,Nintendo
+NS,Nintendo Switch,Nintendo
+GB,Game Boy,Nintendo
+GBC,Game Boy Color,Nintendo
+GBA,Game Boy Advance,Nintendo
+DS,Nintendo DS,Nintendo
+3DS,Nintendo 3DS,Nintendo
+DSi,Nintendo DSi,Nintendo
+DSiW,DSiWare,Nintendo
+VB,Virtual Boy,Nintendo
+VC,Virtual Console,Nintendo
+WW,WiiWare,Nintendo
+FDS,Famicom Disk System,Nintendo
+GEN,Sega Genesis,Sega
+SAT,Sega Saturn,Sega
+DC,Dreamcast,Sega
+GG,Game Gear,Sega
+SCD,Sega CD,Sega
+S32X,Sega 32X,Sega
+MS,Sega Master System,Sega
+2600,Atari 2600,Atari
+5200,Atari 5200,Atari
+7800,Atari 7800,Atari
+Lynx,Atari Lynx,Atari
+AJ,Atari Jaguar,Atari
+AST,Atari ST,Atari
+PC,PC,PC
+OSX,Mac (OS X),PC
+Linux,Linux,PC
+MSD,MS-DOS,PC
+iOS,iOS,Mobile
+And,Android,Mobile
+Mob,Mobile (other),Mobile
+WinP,Windows Phone,Mobile
+BRW,BREW (mobile),Mobile
+WS,WonderSwan,Other
+NG,Neo Geo,Other
+PCE,PC Engine,Other
+3DO,3DO,Other
+PCFX,PC-FX,Other
+All,Multi-platform,Other
+ZXS,ZX Spectrum,Other
+ACPC,Amstrad CPC,Other
+Amig,Amiga,Other
+iQue,iQue,Other
+GIZ,Gizmondo,Other
+Ouya,Ouya,Other
+NGage,N-Gage,Other
+Int,Intellivision,Other
+CV,ColecoVision,Other
+Arc,Arcade,Other
+C64,Commodore 64,Other
+MSX,MSX,Other
+OR,Oculus Rift,Other
+C128,Commodore 128,Other
+CDi,Philips CD-i,Other
+CD32,Amiga CD32,Other
+FMT,FM Towns,Other
+ApII,Apple II,Other
+Aco,Acorn,Other
+BBCM,BBC Micro,Other
+TG16,TurboGrafx-16,Other
